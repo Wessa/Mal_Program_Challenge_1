@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">Challenge_1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="egypt_details">Egypt, officially the Arab Republic of Egypt, is a transcontinental country spanning the
+        northeast corner of Africa and southwest corner of Asia, via a land bridge formed by the Sinai Peninsula. It is the
+        world\'s only contiguous Eurafrasian nation. Most of Egypt\'s territory of 1,010,408 square kilometres (390,000 sq mi)
+        lies within the Nile Valley. Egypt is a Mediterranean country. It is bordered by the Gaza Strip and Israel to the northeast,
+        the Gulf of Aqaba to the east, the Red Sea to the east and south, Sudan to the south and Libya to the west.</string>
+
+    <string name="england_details">England is a country that is part of the United Kingdom. It shares land borders with Scotland
+        to the north and Wales to the west. The Irish Sea lies northwest of England and the Celtic Sea lies to the southwest.
+        England is separated from continental Europe by the North Sea to the east and the English Channel to the south.
+        The country covers much of the central and southern part of the island of Great Britain, which lies in the North Atlantic;
+        and includes over 100 smaller islands such as the Isles of Scilly, and the Isle of Wight.</string>
+
+    <string name="france_details">France, officially the French Republic, is a sovereign state comprising territory in western Europe
+        and several overseas regions and territories. The European part of France, called metropolitan France, extends from the
+        Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. France spans 643,801 square
+        kilometres (248,573 sq mi) and has a total population of 66.6 million. It is a unitary semi-presidential republic with
+        the capital in Paris, the country\'s largest city and main cultural and commercial centre. The Constitution of France establishes
+        the state as secular and democratic, with its sovereignty derived from the people.</string>
+
+    <string name="germany_details">Germany, officially the Federal Republic of Germany is a federal parliamentary republic in West-Central Europe.
+        It includes 16 constituent states and covers an area of 357,021 square kilometres (137,847 sq mi) with a largely temperate seasonal climate.
+        Its capital and largest city is Berlin. With about 81.5 million inhabitants, Germany is the most populous member state in the European Union.
+        After the United States, it is the second most popular migration destination in the world.</string>
+
+    <string name="italy_details">Italy, officially the Italian Republic is a unitary parliamentary republic in Europe. Italy covers an area of
+        301,338 km2 (116,347 sq mi) and has a largely temperate seasonal climate; due to its shape, it is often referred to in Italy as lo Stivale
+        (the Boot). With 61 million inhabitants, it is the 4th most populous EU member state. Located in the heart of the Mediterranean Sea,
+        Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City.</string>
+
+    <string name="netherlands_details">The Netherlands is the main "constituent country" of the Kingdom of the Netherlands. It is a small,
+        densely populated country located in Western Europe with three island territories in the Caribbean. The European part of the Netherlands
+        borders Germany to the east, Belgium to the south, and the North Sea to the northwest, sharing maritime borders with Belgium, the United
+        Kingdom and Germany. The largest and most important cities in the Netherlands are Amsterdam, The Hague and Rotterdam. Amsterdam is the
+        country\'s capital, while The Hague holds the Dutch seat of government and parliament. The port of Rotterdam is the largest port in
+        Europe – as large as the next three largest combined – and was the world\'s largest port between 1962 and 2004. The name Holland is also
+        frequently used to refer informally to the whole of the country of the Netherlands. I love this country the most.</string>
+
+</resources>
